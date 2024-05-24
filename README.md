@@ -1,12 +1,12 @@
-### Hi, i am Vinicius👋
+Ola, Me chamo Vinicius👋
 
--🧑🏾‍💻 Back-End Developer </br>
--📚 Studying Systems Analysis and Development at FATEC-SP </br>
--📫 Contact: viniciuscerqueira070@gmail.com </br>
+-🧑🏾‍💻 Desenvolvedor Back-End</br>
+-📚 Estudante de Analise e Desenvolvimento de Sistemas FATEC-SP </br>
+-📫 Contato: viniciuscerqueira070@gmail.com </br>
 </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cerqueira-293062207)
 
-## My Languages and Tools
+## Linguagens e Ferramentas
 <div style="display: inline_block">
     <img align="center" alt="C#" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
